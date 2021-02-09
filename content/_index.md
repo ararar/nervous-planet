@@ -18,7 +18,7 @@ sections:
         style: primary
         arrow: true
   - type: featured_products_section
-    title: Best sellers
+    title: Популярное
     section_id: best_sellers_section
     light_title: true
     icon: true
