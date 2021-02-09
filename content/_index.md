@@ -6,14 +6,13 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      # Прокат инструментов в Томске
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      здесь что-то написать
     actions:
       - type: action
-        title: See all items
+        title: Посмотреть все товары
         url: /store
         style: primary
         arrow: true
@@ -34,7 +33,7 @@ sections:
       - content/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: Отзывы
     testimonials:
       - text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
