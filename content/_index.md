@@ -12,7 +12,7 @@ sections:
       здесь что-то написать
     actions:
       - type: action
-        title: See all items
+        title: Посмотреть все товары
         url: /store
         style: primary
         arrow: true
