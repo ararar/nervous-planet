@@ -4,7 +4,7 @@ params:
   palette: green
   snipcart_api_key: ''
   favicon: images/favicon.png
-  logo_light: images/logo-white.svg
+  logo_light: /images/Frame 3.svg
   logo_dark: images/logo.svg
   hamburger_background_image: /images/leaf-light-grey.svg
   bg_image_primary: /images/header.jpg
