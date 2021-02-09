@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: /images/greyson-joralemon-A1g0oeX29ec-unsplash.jpg
     background_image_opacity: 65
     content: |
       # Прокат инструментов в Томске
@@ -52,7 +52,7 @@ sections:
     section_id: promotion_section
     title: A new home interior for summer
     subtitle: from $149.99
-    image: images/promo.jpg
+    image: /images/louis-hansel-shotsoflouis-Rf9eElW3Qxo-unsplash.jpg
     background_image: images/leaf.svg
     cta:
       type: action
