@@ -13,18 +13,18 @@ params:
   bg_image_product: /images/leaf.svg
   main_menu:
     - type: action
-      title: Store
+      title: Товары
       url: /store
       style: link
     - type: action
-      title: About
+      title: О нас
       url: /about
       style: link
     - type: action
-      title: FAQ
+      title: Вопросы
       url: /faq
       style: link
-  footer_text: Copyright 2021 Planty Inc. All rights reserved.
+  footer_text: Copyright 2021 Артём Лузин. All rights reserved.
 taxonomies:
   stub: stub
 disableKinds:
