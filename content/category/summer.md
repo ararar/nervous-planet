@@ -1,5 +1,5 @@
 ---
-title: Summer plants
-order: 4
+title: Сад-огород
 layout: category
+order: 5
 ---

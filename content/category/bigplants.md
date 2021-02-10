@@ -1,5 +1,5 @@
 ---
-title: Big plants
-order: 1
+title: Строительное оборудование
 layout: category
+order: 1
 ---
