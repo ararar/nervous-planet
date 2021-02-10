@@ -17,6 +17,6 @@
             {{ $category_page := $.Site.GetPage "page" ( $product_page.Params.category | strings.TrimPrefix "content/" ) }}
             <span class="product-grid__category"> {{ $category_page.Title }} </span>
         {{ end }}
-        <span class="product-grid__price"> ${{ $product_page.Params.price }} </span>
+        <span class="product-grid__price"> {{ $product_page.Params.price }} руб </span>
     </div>
 </li>
