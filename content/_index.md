@@ -29,8 +29,8 @@ sections:
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
-      - content/category/bigplants.md
-      - content/category/cactuses.md
+      - content/category/06izmer.md
+      - content/category/04shlif.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Отзывы
@@ -40,13 +40,13 @@ sections:
           is that Planty theme. I'm going to launch a killer JAMstack e-commerce
           store using this for sure.
         author:
-          name: John Dope
+          name: Кондратов Андрей
           location: 'Colorado, USA'
       - text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
         author:
-          name: Major Payne
+          name: Щеглов Пётр
           location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
