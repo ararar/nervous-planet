@@ -1,0 +1,12 @@
+---
+id: '45'
+title: Шлифовальная Паркетная С206 
+description: Залог 5000 рублей
+price: '1300'
+order: 45
+default_thumbnail_image: image/IMG_20210204_161406.jpg
+default_original_image: image/IMG_20210204_161406_sm.jpg
+category: content/category/04shlif.md
+featured: true
+layout: product
+---
