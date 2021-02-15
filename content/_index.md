@@ -9,7 +9,7 @@ sections:
     content: |
       # Прокат инструментов в Томске
 
-      89996189621
+      tel:+79996189621
     actions:
       - type: action
         title: Посмотреть все товары
