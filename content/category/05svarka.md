@@ -1,5 +1,5 @@
 ---
-title: Сад-огород
+title: Сварка и пайка
 layout: category
 order: 5
 ---
