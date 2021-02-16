@@ -4,8 +4,8 @@ title: Миксер
 description: Залог 2000 рублей
 price: '350'
 order: 25
-default_thumbnail_image: images/mikser.jpg
-default_original_image: images/mikser_sm.jpg
+default_thumbnail_image: images/mikser_sm.jpg
+default_original_image: images/mikser.jpg
 category: content/category/03beton.md
 featured: true
 layout: product
