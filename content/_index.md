@@ -22,10 +22,10 @@ sections:
     light_title: true
     icon: true
     featured_products:
-      - content/products/plant1.md
-      - content/products/plant3.md
-      - content/products/plant5.md
-      - content/products/plant7.md
+      - content/products/file5.md
+      - content/products/file10.md
+      - content/products/file15.md
+      - content/products/file20.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
