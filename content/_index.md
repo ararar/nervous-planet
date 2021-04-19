@@ -36,18 +36,15 @@ sections:
     title: Отзывы
     testimonials:
       - text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          Выручили!!! Когда утепляли дом, решили проверить тепловизором. Очень быстро договорились, и спустя 3 часа вся работа была сделана.
         author:
           name: Кондратов Андрей
-          location: 'Colorado, USA'
+          location: Томск
       - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          Самый большой выбор оборудования на моей памяти. Вопросы решались всегда быстро. Очень выручили с бетономешалкой, спасибо.
         author:
           name: Щеглов Пётр
-          location: 'VA, USA'
+          location: Томск
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
