@@ -1,27 +1,20 @@
 ---
-title: FAQ
+title: Вопрос/Ответ
 page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: Behold our FAQ
+    headline: Ответы на частые вопросы
     subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+      Надеемся этот блок поможет вам определиться и сделать выбор. Здесь собраны самые частые вопросы, поступавшие когда либо нам на тему проката оборудования.
   - type: faq_section
     section_id: faq_section
     questions:
-      - question: How long does shipping take?
+      - question: На какой срок можно арендовать технику?
         answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
-
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
-      - question: How do refunds and returns work?
+          Мы предоставляем услуги по аренде оборудования от нескольких часов до нескольких месяцев. Любые сроки можно обговорить по телефону, уверены, мы найдем общий язык.
+      - question: 
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
