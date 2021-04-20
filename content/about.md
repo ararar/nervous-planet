@@ -21,7 +21,7 @@ sections:
            то и покупка дорогостоящего оборудования, чаще всего не имеет
             никакого смысла, и может сильно сказаться как на бюджете проекта,
              так и семейного бюджета вцелом. 
-        image: images/nan_talk.jpg
+        image: images/michael-browning-WbjdcWUyLRQ-unsplash.jpg
       - title: Экономия сил и времени
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
@@ -29,7 +29,7 @@ sections:
           through free content and tools, like this theme. We also believe [the
           JAMstack](https://jamstack.org/) might be one solid pillar on which we
           build that future.
-        image: images/team.jpg
+        image: images/thayran-melo-iCnKeuwwPPw-unsplash.jpg
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
