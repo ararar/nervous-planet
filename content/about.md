@@ -32,13 +32,13 @@ sections:
         image: images/thayran-melo-iCnKeuwwPPw-unsplash.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
+    title: Новые вещи своими руками
+    subtitle: Можно сделать быстро
+    image: images/eugen-str-RYjHmAPL0hY-unsplash.jpg
     background_image: /images/leaf.svg
     cta:
       type: action
-      title: Discover
+      title: Товары
       url: /store
       style: primary
       arrow: true
