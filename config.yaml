@@ -2,7 +2,6 @@ title: Planty
 baseURL: /
 params:
   palette: green
-  #snipcart_api_key: ''
   favicon: images/favicon.png
   logo_light: /images/Frame 3.svg
   logo_dark: images/logo.svg
@@ -24,6 +23,11 @@ params:
       title: Вопросы
       url: /faq
       style: link
+    - title: lorem-ipsum
+      url: lorem-ipsum
+      style: primary
+      arrow: false
+      type: action
   footer_text: Copyright 2021 Артём Лузин. All rights reserved.
 taxonomies:
   stub: stub
