@@ -23,9 +23,9 @@ params:
       title: Вопросы
       url: /faq
       style: link
-    - title: lorem-ipsum
-      url: lorem-ipsum
-      style: primary
+    - title: Трубогиб
+      url: /trubogib/index.html
+      style: link
       arrow: false
       type: action
   footer_text: Copyright 2021 Артём Лузин. All rights reserved.
