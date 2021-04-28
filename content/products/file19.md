@@ -1,7 +1,7 @@
 ---
 id: '19'
 title: Линейки Bosch По 1.4М
-description: Залог 2000 рублей
+description: Залог 2000 рублей. В налиции 2 штуки. Общая длина 2,8 метра
 price: '200'
 order: 19
 default_thumbnail_image: images/IMG_20210204_153154_sm.jpg

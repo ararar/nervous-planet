@@ -1,6 +1,6 @@
 ---
 id: '4'
-title: Болгарка 
+title: Торцовочная пила 
 description: Залог 1000 рублей
 price: '200'
 order: 4

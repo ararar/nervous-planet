@@ -47,8 +47,8 @@ sections:
           location: Томск
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
+    title: Делай своими руками
+    subtitle: Аренда от 100 рублей
     image: /images/louis-hansel-shotsoflouis-Rf9eElW3Qxo-unsplash.jpg
     background_image: images/leaf.svg
     cta:
