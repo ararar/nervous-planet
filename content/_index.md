@@ -1,5 +1,6 @@
 ---
 title: Прокат инструментов Томск
+description: Быстро оформляем и выдаем инструменты на прокат. Цены от 100 рублей. Можно на долгий срок
 white_header: true
 sections:
   - type: hero_section
