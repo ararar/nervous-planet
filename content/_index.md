@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Прокат инструментов Томск
 white_header: true
 sections:
   - type: hero_section
