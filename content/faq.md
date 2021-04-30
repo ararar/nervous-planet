@@ -14,14 +14,13 @@ sections:
       - question: На какой срок можно арендовать технику?
         answer: >-
           Мы предоставляем услуги по аренде оборудования от нескольких часов до нескольких месяцев. Любые сроки можно обговорить по телефону, уверены, мы найдем общий язык.
-      - question: 
+      - question: Будет ли скидка при заказе на долгий срок?
         answer: >-
-          It happens. Even the most beautiful of plants will disappoint
-          *someone*. Again, tell it like it is:
+          Конечно! Скидки у нас следующие:
 
-            - All discounted items sales are final.
-            - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+          При аренде инструментов на 7 и более дней мы предоставляем скидку 15% 
+          Если вы решите взять технику в прокат на 30 или боьше суток - скидка составит 30%
+          Если срок аренды составит больше 90 дней, тогда мы предоставим вам скидку в 50%
       - question: How do you handle sensitive customer information?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
