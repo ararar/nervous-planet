@@ -45,7 +45,7 @@ sections:
     image: images/promo.jpg
     address: 'Россия, город Томск, ул.Сибирская'
     phone: +7-913-829-2125
-    email: sla-meb@mail.ru>
+    email: sla-meb@mail.ru
     mapUrl: 'https://goo.gl/maps/8WXs9ECvtW1VNfUd8'
 layout: advanced
 ---
