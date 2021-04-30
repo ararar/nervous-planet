@@ -43,9 +43,9 @@ sections:
   - type: contact_section
     section_id: contact_section
     image: images/promo.jpg
-    address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
-    phone: +1-202-555-0112
-    email: geeks@snipcart.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    address: 'Россия, город Томск, ул.Сибирская'
+    phone: [+7-913-829-2125](tel:89138292125)
+    email: sla-meb@mail.ru>
+    mapUrl: 'https://goo.gl/maps/8WXs9ECvtW1VNfUd8'
 layout: advanced
 ---

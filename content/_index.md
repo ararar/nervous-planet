@@ -23,10 +23,10 @@ sections:
     light_title: true
     icon: true
     featured_products:
-      - content/products/file5.md
-      - content/products/file10.md
-      - content/products/file15.md
-      - content/products/file20.md
+      - content/products/file9.md
+      - content/products/file52.md
+      - content/products/file33.md
+      - content/products/file3.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
@@ -54,7 +54,7 @@ sections:
     background_image: images/leaf.svg
     cta:
       type: action
-      title: Discover
+      title: Все товары
       url: /store
       style: secondary
       arrow: true
