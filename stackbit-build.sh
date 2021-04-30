@@ -9,6 +9,6 @@ echo "stackbit-build.sh: start build"
 # build site
 hugo
 
-#./inject-netlify-identity-widget.js public
+./inject-netlify-identity-widget.js public
 
 echo "stackbit-build.sh: finished build"
