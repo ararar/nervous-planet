@@ -29,5 +29,27 @@
         <script src="{{ "js/lib/modernizr.js" | relURL }}"></script>
         <script src="{{ "js/main.js" | relURL }}"></script>
         <script src="{{ "js/page_load.js" | relURL }}"></script>
+        <script type='text/javascript'>
+            (function () {
+                window['yandexChatWidgetCallback'] = function() {
+                    try {
+                        window.yandexChatWidget = new Ya.ChatWidget({
+                            guid: '46807402-9f2f-94ed-6d48-e29f355b0292',
+                            buttonText: 'Напишите нам, мы в сети!',
+                            title: 'Чат',
+                            theme: 'light',
+                            collapsedDesktop: 'never',
+                            collapsedTouch: 'always'
+                        });
+                    } catch(e) { }
+                };
+                var n = document.getElementsByTagName('script')[0],
+                    s = document.createElement('script');
+                s.async = true;
+                s.charset = 'UTF-8';
+                s.src = 'https://yastatic.net/s3/chat/widget.js';
+                n.parentNode.insertBefore(s, n);
+            })();
+            </script>
     </body> 
 </html>
