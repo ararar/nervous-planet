@@ -2,4 +2,5 @@
 User-agent: *
 Disallow: 
 Disallow: /admin
+Disallow: /trubogib/index.html
 Sitemap: https://towarish.ru/sitemap.xml
