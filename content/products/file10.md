@@ -1,6 +1,6 @@
 ---
 id: '10'
-title: Дрель
+title: Дрель советская
 description:
 price: '150'
 order: 10

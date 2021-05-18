@@ -5,7 +5,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: Мы поможем.
+    headline: Аренда строительного оборудования - экономия времени и сил.
     subtitle: >-
       Каждый в своей жизни борется с проблемой, что что-то нужно построить или обновить.
        Конечно, большинство людей могут сделать это самостоятельно, но что бы ни говорили,
