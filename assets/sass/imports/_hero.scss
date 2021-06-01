@@ -36,6 +36,10 @@
             font-weight: bold;
             @include smaller-than-tablet { font-size: $font_size_large; }
         }
+
+        a {
+            font-size: 110%;
+        }
     }
 
     &__bg-img {
